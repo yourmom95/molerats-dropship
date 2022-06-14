@@ -1,0 +1,52 @@
+body{
+  font-size: larger;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  box-shadow: black;
+  border: 1px solid;
+padding: 10px;
+box-shadow: 5px 10px;
+background-image: url('schools.jpg');
+border: 10px solid transparent;
+padding: 15px;
+border-image: url(patternimage.jpg) 30 round;
+}
+h1{
+  font-size: x-large;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px;
+  border: 10px solid transparent;
+padding: 15px;
+border-image: url(patternimage.jpg) 30 round;
+}
+ul {
+  text-shadow: 5px 5px #ECEDF0;
+}
+img{
+right: 150px;
+border: 1px solid;
+padding: 10px;
+box-shadow: 5px 10px;
+border: 10px solid transparent;
+padding: 15px;
+border-image: url(blackandblue.jpg) 30 round;
+}
+p{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(pinkpink.jpg) 30 round;
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: rgb(221, 70, 70);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
